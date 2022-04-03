@@ -1,6 +1,7 @@
 """
 Practica 2
 """
+
 import time
 import random
 from multiprocessing import Lock, Condition, Process
